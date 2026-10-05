@@ -1,0 +1,16 @@
+# Python virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Environment variables / secrets
+.env
+.streamlit/secrets.toml
+
+# Private keys
+*.pem
+
+# ML model artifacts
+artifacts/

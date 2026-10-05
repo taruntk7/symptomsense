@@ -1,0 +1,5 @@
+# Optional. Save as .streamlit/config.toml next to app.py and restart.
+# The app now themes itself, so this only tints Streamlit's own accent
+# (focus rings, selection) to match.
+[theme]
+primaryColor = "#1a7f4b"
