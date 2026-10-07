@@ -3,3 +3,7 @@
 # (focus rings, selection) to match.
 [theme]
 primaryColor = "#1a7f4b"
+
+[server]
+fileWatcherType = "none"
+headless = true
